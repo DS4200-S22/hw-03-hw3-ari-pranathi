@@ -26,7 +26,7 @@ img {
   height: auto;
 }
 
-.text {
+p {
   padding: 10px;
   max-height: inherit;
 }
